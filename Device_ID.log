@@ -1,0 +1,1066 @@
+26.08.2020 23:01:45 ::  OS Caption is : Майкрософт Windows 10 Pro для рабочих станций
+26.08.2020 23:01:45 ::  OS Version is : 10.0.18363
+26.08.2020 23:01:45 :: The registry key does not exist.Product not yet installed.
+26.08.2020 23:01:45 :: SetUninstall value is : 0: Product Installtion.
+26.08.2020 23:01:45 :: Setting property SETPSHED since OS WIN10 with Windows build number greater than or equal to the recomended value of 17110.
+26.08.2020 23:01:45 :: Enlisting drivers under USB node in Device Manager
+26.08.2020 23:01:45 :: ***********************************************************
+26.08.2020 23:01:45 :: Device ID: USB\ROOT_HUB30\5&19706B00&0&0
+26.08.2020 23:01:45 :: Device ID: USB\ROOT_HUB30\5&2EBFCFEC&0&0
+26.08.2020 23:01:45 :: Device ID: USB\VID_25A7&PID_FA61\6&35CC635F&0&12
+26.08.2020 23:01:45 :: Device ID: USB\ROOT_HUB30\5&9D19963&0&0
+26.08.2020 23:01:45 :: Enlisting drivers under 'Storage Controllers' node in Device Manager
+26.08.2020 23:01:45 :: **************************************************************************
+26.08.2020 23:01:45 :: Device ID: ROOT\SPACEPORT\0000
+26.08.2020 23:01:45 :: Checking or RAID Device ID as per new installer .
+26.08.2020 23:01:45 :: Device ID: PCI\VEN_1022&DEV_B000&SUBSYS_576210EC&REV_01\4&2074C63F&0&000E
+26.08.2020 23:01:45 :: Checking or RAID Device ID as per new installer .
+26.08.2020 23:01:45 :: Стандартный контроллер NVM Express Found with device id PCI\VEN_1022&DEV_B000&SUBSYS_576210EC&REV_01\4&2074C63F&0&000E.Hence setting property SETRN_RAID
+26.08.2020 23:01:45 :: Стандартный контроллер NVM Express Found with device id PCI\VEN_1022&DEV_B000&SUBSYS_576210EC&REV_01\4&2074C63F&0&000E.Hence setting property SETRN_XPERT
+26.08.2020 23:01:45 :: Enlisting drivers under 'system devices' node(PNP) in Device Manager
+26.08.2020 23:01:45 :: **************************************************************************
+26.08.2020 23:01:45 :: Device ID: HID\VID_25A7&PID_FA61&MI_01&COL04\8&228EA85F&0&0003
+26.08.2020 23:01:45 :: Device ID: ACPI\PNP0C02\0
+26.08.2020 23:01:45 :: Device ID: USB\ROOT_HUB30\5&19706B00&0&0
+26.08.2020 23:01:45 :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&318E9118&0&30020A
+26.08.2020 23:01:45 :: Device ID: SWD\PRINTENUM\PRINTQUEUES
+26.08.2020 23:01:45 :: Device ID: ACPI\AMDIF030\0
+26.08.2020 23:01:45 :: AMD GPIO Controller Found with device id ACPI\AMDIF030\0.Hence setting property SETGPIO3
+26.08.2020 23:01:45 :: Device ID: PCI\VEN_1022&DEV_15D3&SUBSYS_876B1043&REV_00\3&11583659&0&0A
+26.08.2020 23:01:45 :: Device ID: PCI\VEN_1022&DEV_15D3&SUBSYS_876B1043&REV_00\3&11583659&0&0E
+26.08.2020 23:01:45 :: Device ID: PCI\VEN_1022&DEV_43D5&SUBSYS_11421B21&REV_01\4&2FC0BECC&0&000A
+26.08.2020 23:01:45 :: Device ID: ROOT\VOLMGR\0000
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0103\2&DABA3FF&0
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&318E9118&0&28020A
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_15EF&SUBSYS_00000000&REV_00\3&11583659&0&C7
+26.08.2020 23:01:46 :: Device ID: STORAGE\VOLUME\{0A90966E-E7C6-11EA-834C-806E6F6E6963}#0000000000100000
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_15E1&SUBSYS_876B1043&REV_00\4&28505369&0&0441
+26.08.2020 23:01:46 :: Device ID: SWD\MSRRAS\MS_PPPOEMINIPORT
+26.08.2020 23:01:46 :: Device ID: ROOT\BASICDISPLAY\0000
+26.08.2020 23:01:46 :: Device ID: USB\ROOT_HUB30\5&2EBFCFEC&0&0
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_15DC&SUBSYS_876B1043&REV_00\3&11583659&0&42
+26.08.2020 23:01:46 :: Device ID: ACPI\AMDI0030\0
+26.08.2020 23:01:46 :: AMD GPIO Controller Found with device id ACPI\AMDI0030\0.Hence setting property SETGPIO2
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_1452&SUBSYS_00000000&REV_00\3&11583659&0&08
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_1452&SUBSYS_00000000&REV_00\3&11583659&0&40
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&318E9118&0&38020A
+26.08.2020 23:01:46 :: Device ID: USB\VID_25A7&PID_FA61\6&35CC635F&0&12
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_15D0&SUBSYS_876B1043&REV_00\3&11583659&0&00
+26.08.2020 23:01:46 :: Device ID: SWD\MSRRAS\{5E259276-BC7E-40E3-B93B-8F89B5F3ABC0}
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0C14\ASUSWMI
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_15EC&SUBSYS_00000000&REV_00\3&11583659&0&C4
+26.08.2020 23:01:46 :: Device ID: HID\VID_25A7&PID_FA61&MI_01&COL05\8&228EA85F&0&0004
+26.08.2020 23:01:46 :: Device ID: SWD\MSRRAS\MS_PPTPMINIPORT
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0800\4&11D0B147&0
+26.08.2020 23:01:46 :: Device ID: ROOT\VID\0000
+26.08.2020 23:01:46 :: Device ID: SWD\MSRRAS\MS_AGILEVPNMINIPORT
+26.08.2020 23:01:46 :: Device ID: ROOT\COMPOSITEBUS\0000
+26.08.2020 23:01:46 :: Device ID: ROOT\VDRVROOT\0000
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_15E8&SUBSYS_00000000&REV_00\3&11583659&0&C0
+26.08.2020 23:01:46 :: Device ID: ROOT\SPACEPORT\0000
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_43C8&SUBSYS_10621B21&REV_01\4&2FC0BECC&0&010A
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0501\0
+26.08.2020 23:01:46 :: Device ID: ROOT\KDNIC\0000
+26.08.2020 23:01:46 :: Device ID: SWD\PRINTENUM\{14ED347F-9AB8-42C6-89EA-A3B561BD7EC3}
+26.08.2020 23:01:46 :: Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT1
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0100\4&11D0B147&0
+26.08.2020 23:01:46 :: Device ID: SWD\DRIVERENUM\AMDUWP&5&1B268A38&0
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_15DF&SUBSYS_876B1043&REV_00\4&28505369&0&0241
+26.08.2020 23:01:46 :: AMD PSP 10.0 Device Found with device id PCI\VEN_1022&DEV_15DF&SUBSYS_876B1043&REV_00\4&28505369&0&0241.Hence setting property SETPSP
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_15E0&SUBSYS_876B1043&REV_00\4&28505369&0&0341
+26.08.2020 23:01:46 :: Device ID: HID\VID_25A7&PID_FA61&MI_01&COL01\8&228EA85F&0&0000
+26.08.2020 23:01:46 :: Device ID: HID\VID_25A7&PID_FA61&MI_01&COL06\8&228EA85F&0&0005
+26.08.2020 23:01:46 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200G_WITH_RADEON_VEGA_GRAPHICS____\_0
+26.08.2020 23:01:46 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200G_WITH_RADEON_VEGA_GRAPHICS____\_1
+26.08.2020 23:01:46 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200G_WITH_RADEON_VEGA_GRAPHICS____\_2
+26.08.2020 23:01:46 :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200G_WITH_RADEON_VEGA_GRAPHICS____\_3
+26.08.2020 23:01:46 :: Device ID: ROOT\UMBUS\0000
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_15E3&SUBSYS_86C71043&REV_00\4&28505369&0&0641
+26.08.2020 23:01:46 :: Device ID: SWD\RADIO\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_15EE&SUBSYS_00000000&REV_00\3&11583659&0&C6
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_790E&SUBSYS_876B1043&REV_51\3&11583659&0&A3
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0C01\C8
+26.08.2020 23:01:46 :: Device ID: ROOT\ACPI_HAL\0000
+26.08.2020 23:01:46 :: Device ID: SWD\MSRRAS\MS_NDISWANBH
+26.08.2020 23:01:46 :: Device ID: SWD\MSRRAS\MS_NDISWANIP
+26.08.2020 23:01:46 :: Device ID: HID\VID_25A7&PID_FA61&MI_00\8&3A5234A4&0&0000
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0C14\AOD
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0A08\0
+26.08.2020 23:01:46 :: Device ID: DISPLAY\BNQ78DB\5&1B268A38&0&UID256
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_15DB&SUBSYS_876B1043&REV_00\3&11583659&0&41
+26.08.2020 23:01:46 :: Device ID: ACPI_HAL\PNP0C08\0
+26.08.2020 23:01:46 :: Device ID: HTREE\ROOT\0
+26.08.2020 23:01:46 :: Device ID: SWD\PRINTENUM\{B9B08772-E71B-4DCD-A5CB-138CDB6B0DD7}
+26.08.2020 23:01:46 :: Device ID: ROOT\BASICRENDER\0000
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_876B1043&REV_61\3&11583659&0&A0
+26.08.2020 23:01:46 :: Checking for REV_16 in deatils since ven and dev id were found.
+26.08.2020 23:01:46 :: AMD SMBus Met conditions 'Win10/RS2,VEN_1022 AND DEV_790B with REV_61/REV_59/REV_51'.Hence setting property SETRYZENPPKG.
+26.08.2020 23:01:46 :: AMD SMBus Found with device id PCI\VEN_1022&DEV_790B&SUBSYS_876B1043&REV_61\3&11583659&0&A0.Hence setting property SETSMBUS since : Майкрософт Windows 10 Pro для рабочих станций
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_B000&SUBSYS_576210EC&REV_01\4&2074C63F&0&000E
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_15EB&SUBSYS_00000000&REV_00\3&11583659&0&C3
+26.08.2020 23:01:46 :: Device ID: SWD\MSRRAS\MS_SSTPMINIPORT
+26.08.2020 23:01:46 :: Device ID: HID\VID_25A7&PID_FA61&MI_01&COL02\8&228EA85F&0&0001
+26.08.2020 23:01:46 :: Device ID: SCSI\DISK&VEN_NVME&PROD_ADATA_SX8100NP\5&3589BB61&0&000000
+26.08.2020 23:01:46 :: Device ID: USB\VID_25A7&PID_FA61&MI_00\7&2CB932D4&0&0000
+26.08.2020 23:01:46 :: Device ID: USB\ROOT_HUB30\5&9D19963&0&0
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_10EC&DEV_8168&SUBSYS_86771043&REV_15\6&108BE823&0&0038020A
+26.08.2020 23:01:46 :: Device ID: ACPI\FIXEDBUTTON\2&DABA3FF&0
+26.08.2020 23:01:46 :: Device ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0887&SUBSYS_104386C7&REV_1003\5&1C28E26B&0&0001
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0C02\14
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0C02\15
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0C02\90
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_876B1043&REV_61\4&12E10AF6&0&0042
+26.08.2020 23:01:46 :: Device ID: SWD\MMDEVAPI\MICROSOFTGSWAVETABLESYNTH
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0C0C\AA
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0B00\4&11D0B147&0
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1002&DEV_15D8&SUBSYS_876B1043&REV_C9\4&28505369&0&0041
+26.08.2020 23:01:46 :: Device ID: ROOT\NDISVIRTUALBUS\0000
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&318E9118&0&00020A
+26.08.2020 23:01:46 :: Device ID: HID\VID_25A7&PID_FA61&MI_01&COL03\8&228EA85F&0&0002
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0000\4&11D0B147&0
+26.08.2020 23:01:46 :: Device ID: USB\VID_25A7&PID_FA61&MI_01\7&2CB932D4&0&0001
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_15ED&SUBSYS_00000000&REV_00\3&11583659&0&C5
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_43C6&SUBSYS_02011B21&REV_01\4&2FC0BECC&0&020A
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0C02\700
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0C02\4&28505369&0
+26.08.2020 23:01:46 :: Device ID: ROOT\MSSMBIOS\0000
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_15E9&SUBSYS_00000000&REV_00\3&11583659&0&C1
+26.08.2020 23:01:46 :: Device ID: ACPI\PNP0200\4&11D0B147&0
+26.08.2020 23:01:46 :: Device ID: SWD\PRINTENUM\{FCABCD0A-C722-482D-9444-2986A73A2572}
+26.08.2020 23:01:46 :: Device ID: ROOT\SYSTEM\0000
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_15EA&SUBSYS_00000000&REV_00\3&11583659&0&C2
+26.08.2020 23:01:46 :: Device ID: ROOT\RDPBUS\0000
+26.08.2020 23:01:46 :: Device ID: SWD\MSRRAS\MS_NDISWANIPV6
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&318E9118&0&20020A
+26.08.2020 23:01:46 :: Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{9FE55ABE-E3EA-4771-B6E6-48CF1AAB2B9E}
+26.08.2020 23:01:46 :: Device ID: SWD\MSRRAS\MS_L2TPMINIPORT
+26.08.2020 23:01:46 :: Enlisting drivers under 'IDE ATA\ATAPI Controllers' node in Device Manager
+26.08.2020 23:01:46 :: **********************************************************************************
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_43C8&SUBSYS_10621B21&REV_01\4&2FC0BECC&0&010A
+26.08.2020 23:01:46 :: Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_876B1043&REV_61\4&12E10AF6&0&0042
+26.08.2020 23:01:46 :: Enlisting drivers under 'Network Adaptors' node in Device Manager
+26.08.2020 23:01:46 :: **************************************************************************
+26.08.2020 23:01:46 :: Device ID: 0
+26.08.2020 23:01:46 :: Device ID: 1
+26.08.2020 23:01:46 :: Device ID: 2
+26.08.2020 23:01:46 :: Device ID: 3
+26.08.2020 23:01:46 :: Device ID: 4
+26.08.2020 23:01:46 :: Device ID: 5
+26.08.2020 23:01:46 :: Device ID: 6
+26.08.2020 23:01:46 :: Device ID: 7
+26.08.2020 23:01:46 :: Device ID: 8
+26.08.2020 23:01:46 :: Device ID: 9
+26.08.2020 23:01:46 :: File found at : C:\Windows\Info.xml. Proceeding to read.
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD Ryzen Power Plan is evaluated against : /SETRN_RAID
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD Ryzen Power Plan is evaluated against : /SETRN_XPERT
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD Ryzen Power Plan is evaluated against : /SETGPIO3
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD Ryzen Power Plan is evaluated against : /SETGPIO2
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD Ryzen Power Plan is evaluated against : /SETPSP
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD Ryzen Power Plan is evaluated against : /SETRYZENPPKG
+26.08.2020 23:01:46 :: ReadXMLValues : AMD Ryzen Power Plan found
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD Ryzen Power Plan is evaluated against : /SETSMBUS
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD PCI Device Driver is evaluated against : /SETRN_RAID
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD PCI Device Driver is evaluated against : /SETRN_XPERT
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD PCI Device Driver is evaluated against : /SETGPIO3
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD PCI Device Driver is evaluated against : /SETGPIO2
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD PCI Device Driver is evaluated against : /SETPSP
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD PCI Device Driver is evaluated against : /SETRYZENPPKG
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD PCI Device Driver is evaluated against : /SETSMBUS
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD I2C Driver is evaluated against : /SETRN_RAID
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD I2C Driver is evaluated against : /SETRN_XPERT
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD I2C Driver is evaluated against : /SETGPIO3
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD I2C Driver is evaluated against : /SETGPIO2
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD I2C Driver is evaluated against : /SETPSP
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD I2C Driver is evaluated against : /SETRYZENPPKG
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD I2C Driver is evaluated against : /SETSMBUS
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD UART Driver is evaluated against : /SETRN_RAID
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD UART Driver is evaluated against : /SETRN_XPERT
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD UART Driver is evaluated against : /SETGPIO3
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD UART Driver is evaluated against : /SETGPIO2
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD UART Driver is evaluated against : /SETPSP
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD UART Driver is evaluated against : /SETRYZENPPKG
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD UART Driver is evaluated against : /SETSMBUS
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD GPIO2 Driver is evaluated against : /SETRN_RAID
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD GPIO2 Driver is evaluated against : /SETRN_XPERT
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD GPIO2 Driver is evaluated against : /SETGPIO3
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD GPIO2 Driver is evaluated against : /SETGPIO2
+26.08.2020 23:01:46 :: ReadXMLValues : AMD GPIO2 Driver found
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD GPIO2 Driver is evaluated against : /SETPSP
+26.08.2020 23:01:46 :: ReadXMLValues : Value inside array :AMD GPIO2 Driver is evaluated against : /SETRYZENPPKG
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD GPIO2 Driver is evaluated against : /SETSMBUS
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :PT GPIO Driver is evaluated against : /SETRN_RAID
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :PT GPIO Driver is evaluated against : /SETRN_XPERT
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :PT GPIO Driver is evaluated against : /SETGPIO3
+26.08.2020 23:01:47 :: ReadXMLValues : PT GPIO Driver found
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :PT GPIO Driver is evaluated against : /SETGPIO2
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :PT GPIO Driver is evaluated against : /SETPSP
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :PT GPIO Driver is evaluated against : /SETRYZENPPKG
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :PT GPIO Driver is evaluated against : /SETSMBUS
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD PSP Driver is evaluated against : /SETRN_RAID
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD PSP Driver is evaluated against : /SETRN_XPERT
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD PSP Driver is evaluated against : /SETGPIO3
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD PSP Driver is evaluated against : /SETGPIO2
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD PSP Driver is evaluated against : /SETPSP
+26.08.2020 23:01:47 :: ReadXMLValues : AMD PSP Driver found
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD PSP Driver is evaluated against : /SETRYZENPPKG
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD PSP Driver is evaluated against : /SETSMBUS
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD IOV Driver is evaluated against : /SETRN_RAID
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD IOV Driver is evaluated against : /SETRN_XPERT
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD IOV Driver is evaluated against : /SETGPIO3
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD IOV Driver is evaluated against : /SETGPIO2
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD IOV Driver is evaluated against : /SETPSP
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD IOV Driver is evaluated against : /SETRYZENPPKG
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD IOV Driver is evaluated against : /SETSMBUS
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD SMBUS Driver is evaluated against : /SETRN_RAID
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD SMBUS Driver is evaluated against : /SETRN_XPERT
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD SMBUS Driver is evaluated against : /SETGPIO3
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD SMBUS Driver is evaluated against : /SETGPIO2
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD SMBUS Driver is evaluated against : /SETPSP
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD SMBUS Driver is evaluated against : /SETRYZENPPKG
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD SMBUS Driver is evaluated against : /SETSMBUS
+26.08.2020 23:01:47 :: ReadXMLValues : AMD SMBUS Drivern found
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD MicroPEP Driver is evaluated against : /SETRN_RAID
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD MicroPEP Driver is evaluated against : /SETRN_XPERT
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD MicroPEP Driver is evaluated against : /SETGPIO3
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD MicroPEP Driver is evaluated against : /SETGPIO2
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD MicroPEP Driver is evaluated against : /SETPSP
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD MicroPEP Driver is evaluated against : /SETRYZENPPKG
+26.08.2020 23:01:47 :: ReadXMLValues : Value inside array :AMD MicroPEP Driver is evaluated against : /SETSMBUS
+8/26/2020 11:01:59 PM :: Folder C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\IODriver\UART not found at location.
+8/26/2020 11:01:59 PM :: Folder C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\IODriver\I2C not removed.
+8/26/2020 11:01:59 PM :: Folder C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\IODriver\GPIO2 not removed.
+8/26/2020 11:01:59 PM :: Folder C:\AMD\UART Driver not removed.
+8/26/2020 11:01:59 PM :: Folder C:\AMD\I2C Driver not removed.
+8/26/2020 11:01:59 PM :: Folder C:\AMD\GPIO2 Driver not removed.
+8/26/2020 11:02:00 PM :: Folder exists
+8/26/2020 11:02:00 PM :: Folder exists
+8/26/2020 11:02:00 PM :: Folder exists
+8/26/2020 11:02:00 PM :: Folder exists
+8/26/2020 11:02:00 PM :: Folder exists
+8/26/2020 11:02:01 PM :: Folder exists
+8/26/2020 11:02:01 PM :: Folder exists
+8/26/2020 11:02:01 PM :: Folder exists
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:01 PM :: File doesnt exist at : C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68}\MSIFiles\Packages\devcon.exe
+8/26/2020 11:02:03 PM :: MSIExtract : Subfolder copied Successfully from C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{80252775-3728-442D-9E35-9C29E8460D68} to C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers
+8/26/2020 11:02:03 PM :: MSIExtract: Copying form C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers to C:\AMD\Chipset_Driver_Installer\
+8/26/2020 11:02:06 PM :: MSIExtract : Appdata copied Successfully from C:\Users\kazan\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers to C:\AMD\Chipset_Driver_Installer\
+8/26/2020 11:02:06 PM :: Enlisting drivers under 'system devices' node(PNP) in Device Manager
+8/26/2020 11:02:06 PM :: **************************************************************************
+8/26/2020 11:02:06 PM :: AMD SMBus Found SMBUS with Vendor id VEN_1022.Hence setting property DETECTAMD
+8/26/2020 11:02:06 PM :: Name: AMD SMBus
+8/26/2020 11:02:06 PM :: Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_876B1043&REV_61\3&11583659&0&A0
+8/26/2020 11:02:06 PM :: PNP Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_876B1043&REV_61\3&11583659&0&A0
+26.08.2020 23:02:06 :: Dpinst.log file not found.
+26.08.2020 23:02:06 :: List of features deployed initially : 
+26.08.2020 23:02:07 :: Remove value written to registry is: 
+26.08.2020 23:02:07 :: ProductCode value obtained from session : {810a2b63-212d-4a59-bfb5-f2d575cd44f0}
+26.08.2020 23:02:07 :: EstimatedSize value obtained form registry SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{810a2b63-212d-4a59-bfb5-f2d575cd44f0}\ is : 24083
+26.08.2020 23:02:07 :: EstimatedSize value written to registry HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\AMD_Chipset_IODrivers\EstimatedSize
+26.08.2020 23:02:08 :: QML Source: C:\AMD\Chipset_Driver_Installer\ChipsetDriversExtract\MSIFiles\Qt_Dependancies\
+26.08.2020 23:02:08 :: Destination: C:\Program Files (x86)\AMD\Chipset_IODrivers
+26.08.2020 23:02:08 :: Dpinst.log file not found.
+26.08.2020 23:02:08 :: REMOVEVALUE property value is : 
+26.08.2020 23:02:08 :: DPLINECOUNT property value is : 
+26.08.2020 23:02:08 :: ADDLOCAL property value is : Drivers,GPIO2,GPIO3,PSP,RYZENPPKG,SMBUS
+26.08.2020 23:02:08 :: REMPSHED property value is : 
+26.08.2020 23:02:08 :: Transaction NOT in uninstall mode
+26.08.2020 23:02:08 :: Dpinst.log file not found.
+26.08.2020 23:02:20 :: PSP_Cleanup : Existing values on 'owners' key : oem6.inf
+26.08.2020 23:02:20 :: PSP_Cleanup: Oem value of existing PSP Driver obtaned from registry is : oem6.inf
+26.08.2020 23:02:20 :: PSP_Cleanup : Command to uninstall already existing PSP driver form system : "C:\AMD\PSP Driver\dpinst64.exe" /U "C:\Windows\inf\oem6.inf" /LM /SA /SW
+26.08.2020 23:02:21 :: DeleteSubkeys : Subkeys exist for : SYSTEM\CurrentControlSet\Control\Cryptography\Providers\AMD Provider
+26.08.2020 23:02:21 :: DeleteSubkeys : Subkeys exist for : SYSTEM\CurrentControlSet\Control\Cryptography\Providers\AMD Provider\KM
+26.08.2020 23:02:21 :: DeleteSubkeys : NO Subkeys exist for : SYSTEM\CurrentControlSet\Control\Cryptography\Providers\AMD Provider\KM\00000001
+26.08.2020 23:02:21 :: DeleteSubkeys : NO Subkeys exist for : SYSTEM\CurrentControlSet\Control\Cryptography\Providers\AMD Provider\KM\00000002
+26.08.2020 23:02:21 :: DeleteSubkeys : NO Subkeys exist for : SYSTEM\CurrentControlSet\Control\Cryptography\Providers\AMD Provider\KM\00000003
+26.08.2020 23:02:21 :: DeleteSubkeys : NO Subkeys exist for : SYSTEM\CurrentControlSet\Control\Cryptography\Providers\AMD Provider\KM\00000004
+26.08.2020 23:02:21 :: DeleteSubkeys : NO Subkeys exist for : SYSTEM\CurrentControlSet\Control\Cryptography\Providers\AMD Provider\KM\00000005
+26.08.2020 23:02:21 :: DeleteSubkeys : NO Subkeys exist for : SYSTEM\CurrentControlSet\Control\Cryptography\Providers\AMD Provider\KM\00000006
+26.08.2020 23:02:21 :: DeleteSubkeys : Subkeys exist for : SYSTEM\CurrentControlSet\Control\Cryptography\Providers\AMD Provider\UM
+26.08.2020 23:02:21 :: DeleteSubkeys : NO Subkeys exist for : SYSTEM\CurrentControlSet\Control\Cryptography\Providers\AMD Provider\UM\00000001
+26.08.2020 23:02:21 :: DeleteSubkeys : NO Subkeys exist for : SYSTEM\CurrentControlSet\Control\Cryptography\Providers\AMD Provider\UM\00000002
+26.08.2020 23:02:21 :: DeleteSubkeys : NO Subkeys exist for : SYSTEM\CurrentControlSet\Control\Cryptography\Providers\AMD Provider\UM\00000003
+26.08.2020 23:02:21 :: DeleteSubkeys : NO Subkeys exist for : SYSTEM\CurrentControlSet\Control\Cryptography\Providers\AMD Provider\UM\00000004
+26.08.2020 23:02:21 :: DeleteSubkeys : NO Subkeys exist for : SYSTEM\CurrentControlSet\Control\Cryptography\Providers\AMD Provider\UM\00000005
+26.08.2020 23:02:21 :: DeleteSubkeys : NO Subkeys exist for : SYSTEM\CurrentControlSet\Control\Cryptography\Providers\AMD Provider\UM\00000006
+26.08.2020 23:02:21 :: PSP_Cleanup : Registry clean up attempted for existing drivers
+8/26/2020 11:02:30 PM :: REMOVEVALUE property value is : 
+8/26/2020 11:02:30 PM :: DPLINECOUNT property value is : 
+8/26/2020 11:02:30 PM :: ADDLOCAL property value is : Drivers,GPIO2,GPIO3,PSP,RYZENPPKG,SMBUS
+8/26/2020 11:02:30 PM :: REMPSHED property value is : 
+8/26/2020 11:02:30 PM :: Transaction NOT in uninstall mode
+8/26/2020 11:02:30 PM :: No previous line count obtained from dpinst.log
+8/26/2020 11:02:30 PM :: REBOOTSTATUS NOT set from newly created dpinst file.Writing NO to registry.
+8/26/2020 11:11:14 PM :: MSIQTExtract source folder: C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\
+8/26/2020 11:11:17 PM :: MSIQTExtract : devcon.exe copied Successfully
+8/26/2020 11:11:21 PM :: MSIQTExtract : Subfolder copied Successfully from C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF} to C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract
+8/26/2020 11:11:25 PM :: MSIQTExtract : Appdata copied Successfully from C:\Users\kazan\AppData\Roaming\AMD to C:\
+8/26/2020 11:11:25 PM :: Enlisting drivers under 'system devices' node(PNP) in Device Manager
+8/26/2020 11:11:25 PM :: **************************************************************************
+8/26/2020 11:11:26 PM :: AMD SMBus Found SMBUS with Vendor id VEN_1022.Hence setting property DETECTAMD
+8/26/2020 11:11:26 PM :: Name: AMD SMBus
+8/26/2020 11:11:26 PM :: Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_876B1043&REV_61\3&11583659&0&A0
+8/26/2020 11:11:26 PM :: PNP Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_876B1043&REV_61\3&11583659&0&A0
+8/26/2020 11:11:26 PM :: Driver Name: spaceport
+8/26/2020 11:11:26 PM :: Name: Контроллер дискового пространства (Майкрософт)
+8/26/2020 11:11:26 PM :: Device ID: ROOT\SPACEPORT\0000
+8/26/2020 11:11:26 PM :: PNP Device ID: ROOT\SPACEPORT\0000
+8/26/2020 11:11:26 PM :: No driver name matches StdNVMe or AMD-RAID Bottom Device.
+8/26/2020 11:11:26 PM :: Hence ,call devcon since RAID can be listed under 'other devices'.
+8/26/2020 11:11:26 PM :: Command to do device id check and create output file : C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon.exe status *7917 > C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:26 PM :: Delay in Seconds : 1
+8/26/2020 11:11:27 PM :: Command to check for device id in output file : findstr "DEV_7917" C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:27 PM :: No device found.
+8/26/2020 11:11:27 PM :: Command to do device id check and create output file : C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon.exe status *7916 > C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:27 PM :: Delay in Seconds : 1
+8/26/2020 11:11:28 PM :: Command to check for device id in output file : findstr "DEV_7916" C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:28 PM :: No device found.
+8/26/2020 11:11:28 PM :: Command to do device id check and create output file : C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon.exe status *7905 > C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:28 PM :: Delay in Seconds : 1
+8/26/2020 11:11:29 PM :: Command to check for device id in output file : findstr "DEV_7905" C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:29 PM :: No device found.
+8/26/2020 11:11:29 PM :: Command to do device id check and create output file : C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon.exe status *43BD > C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:29 PM :: Delay in Seconds : 1
+8/26/2020 11:11:30 PM :: Command to check for device id in output file : findstr "DEV_43BD" C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:30 PM :: No device found.
+8/26/2020 11:11:30 PM :: RAID NOT Detected as property value is still : 0
+8/26/2020 11:11:30 PM :: Driver Name: stornvme
+8/26/2020 11:11:30 PM :: Name: Стандартный контроллер NVM Express
+8/26/2020 11:11:30 PM :: Device ID: PCI\VEN_1022&DEV_B000&SUBSYS_576210EC&REV_01\4&2074C63F&0&000E
+8/26/2020 11:11:30 PM :: PNP Device ID: PCI\VEN_1022&DEV_B000&SUBSYS_576210EC&REV_01\4&2074C63F&0&000E
+8/26/2020 11:11:30 PM :: No driver name matches StdNVMe or AMD-RAID Bottom Device.
+8/26/2020 11:11:30 PM :: Hence ,call devcon since RAID can be listed under 'other devices'.
+8/26/2020 11:11:30 PM :: Command to do device id check and create output file : C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon.exe status *7917 > C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:30 PM :: Delay in Seconds : 1
+8/26/2020 11:11:31 PM :: Command to check for device id in output file : findstr "DEV_7917" C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:31 PM :: No device found.
+8/26/2020 11:11:31 PM :: Command to do device id check and create output file : C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon.exe status *7916 > C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:31 PM :: Delay in Seconds : 1
+8/26/2020 11:11:32 PM :: Command to check for device id in output file : findstr "DEV_7916" C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:32 PM :: No device found.
+8/26/2020 11:11:32 PM :: Command to do device id check and create output file : C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon.exe status *7905 > C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:32 PM :: Delay in Seconds : 1
+8/26/2020 11:11:33 PM :: Command to check for device id in output file : findstr "DEV_7905" C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:33 PM :: No device found.
+8/26/2020 11:11:33 PM :: Command to do device id check and create output file : C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon.exe status *43BD > C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:33 PM :: Delay in Seconds : 1
+8/26/2020 11:11:34 PM :: Command to check for device id in output file : findstr "DEV_43BD" C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:34 PM :: No device found.
+8/26/2020 11:11:34 PM :: RAID NOT Detected as property value is still : 0
+8/26/2020 11:11:34 PM :: 'NO' response obtained from user.Checking for SATA RAID
+8/26/2020 11:11:34 PM :: Check_RAIDSATA : Name: Контроллер дискового пространства (Майкрософт)
+8/26/2020 11:11:34 PM :: Check_RAIDSATA : PNP Device ID: ROOT\SPACEPORT\0000
+8/26/2020 11:11:34 PM :: device id doesnt match to SATA RAID
+8/26/2020 11:11:34 PM :: Check_RAIDSATA : Name: Стандартный контроллер NVM Express
+8/26/2020 11:11:34 PM :: Check_RAIDSATA : PNP Device ID: PCI\VEN_1022&DEV_B000&SUBSYS_576210EC&REV_01\4&2074C63F&0&000E
+8/26/2020 11:11:34 PM :: device id doesnt match to SATA RAID
+8/26/2020 11:11:34 PM :: Call devcon check since RAID can be listed under 'other devices'
+8/26/2020 11:11:34 PM :: Command to do device id check and create output file : C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon.exe status *7917 > C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:34 PM :: Delay in Seconds : 1
+8/26/2020 11:11:35 PM :: Command to check for device id in output file : findstr "DEV_7917" C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:35 PM :: No device found.
+8/26/2020 11:11:35 PM :: Command to do device id check and create output file : C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon.exe status *7916 > C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:35 PM :: Delay in Seconds : 1
+8/26/2020 11:11:36 PM :: Command to check for device id in output file : findstr "DEV_7916" C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:36 PM :: No device found.
+8/26/2020 11:11:36 PM :: Command to do device id check and create output file : C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon.exe status *7905 > C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:36 PM :: Delay in Seconds : 1
+8/26/2020 11:11:37 PM :: Command to check for device id in output file : findstr "DEV_7905" C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:37 PM :: No device found.
+8/26/2020 11:11:37 PM :: Command to do device id check and create output file : C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon.exe status *43BD > C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:37 PM :: Delay in Seconds : 1
+8/26/2020 11:11:38 PM :: Command to check for device id in output file : findstr "DEV_43BD" C:\Users\kazan\AppData\Roaming\AMD\ChipsetDriversExtract\{FFAD9C94-8BDE-4A8C-9EDA-BDBE11E798BF}\MSIFiles\devcon_out.txt
+8/26/2020 11:11:38 PM :: No device found.
+8/26/2020 11:11:38 PM :: RAID NOT Detected as property value is still : 0
+8/26/2020 11:11:38 PM :: No appropriate RAID drivers identified.
+8/26/2020 11:11:38 PM ::  OS Caption is : Майкрософт Windows 10 Pro для рабочих станций
+8/26/2020 11:11:38 PM ::  OS Version is : 10.0.18363
+8/26/2020 11:11:38 PM :: The registry key does not exist.Product not yet installed.
+8/26/2020 11:11:38 PM :: SetUninstall value is : 0: Product Installtion.
+8/26/2020 11:11:38 PM :: Setting property SETPSHED since OS WIN10 with Windows build number greater than or equal to the recomended value of 17110.
+8/26/2020 11:11:38 PM :: Enlisting drivers under USB node in Device Manager
+8/26/2020 11:11:38 PM :: ***********************************************************
+8/26/2020 11:11:38 PM :: Name: Корневой USB-концентратор (USB 3.0)
+8/26/2020 11:11:38 PM :: Device ID: USB\ROOT_HUB30\5&19706B00&0&0
+8/26/2020 11:11:38 PM :: PNP Device ID: USB\ROOT_HUB30\5&19706B00&0&0
+8/26/2020 11:11:38 PM :: Checking for USB under USBHub node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under USBHub node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Корневой USB-концентратор (USB 3.0)
+8/26/2020 11:11:38 PM :: Device ID: USB\ROOT_HUB30\5&2EBFCFEC&0&0
+8/26/2020 11:11:38 PM :: PNP Device ID: USB\ROOT_HUB30\5&2EBFCFEC&0&0
+8/26/2020 11:11:38 PM :: Checking for USB under USBHub node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under USBHub node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Составное USB устройство
+8/26/2020 11:11:38 PM :: Device ID: USB\VID_25A7&PID_FA61\6&35CC635F&0&12
+8/26/2020 11:11:38 PM :: PNP Device ID: USB\VID_25A7&PID_FA61\6&35CC635F&0&12
+8/26/2020 11:11:38 PM :: Checking for USB under USBHub node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under USBHub node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Корневой USB-концентратор (USB 3.0)
+8/26/2020 11:11:38 PM :: Device ID: USB\ROOT_HUB30\5&9D19963&0&0
+8/26/2020 11:11:38 PM :: PNP Device ID: USB\ROOT_HUB30\5&9D19963&0&0
+8/26/2020 11:11:38 PM :: Checking for USB under USBHub node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under USBHub node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Enlisting drivers under 'system devices' node(PNP) in Device Manager
+8/26/2020 11:11:38 PM :: **************************************************************************
+8/26/2020 11:11:38 PM :: Name: HID-совместимый системный контроллер
+8/26/2020 11:11:38 PM :: Device ID: HID\VID_25A7&PID_FA61&MI_01&COL04\8&228EA85F&0&0003
+8/26/2020 11:11:38 PM :: PNP Device ID: HID\VID_25A7&PID_FA61&MI_01&COL04\8&228EA85F&0&0003
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Ресурсы системной платы
+8/26/2020 11:11:38 PM :: Device ID: ACPI\PNP0C02\0
+8/26/2020 11:11:38 PM :: PNP Device ID: ACPI\PNP0C02\0
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Корневой USB-концентратор (USB 3.0)
+8/26/2020 11:11:38 PM :: Device ID: USB\ROOT_HUB30\5&19706B00&0&0
+8/26/2020 11:11:38 PM :: PNP Device ID: USB\ROOT_HUB30\5&19706B00&0&0
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Мост PCI–PCI
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&318E9118&0&30020A
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&318E9118&0&30020A
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Корневая очередь печати
+8/26/2020 11:11:38 PM :: Device ID: SWD\PRINTENUM\PRINTQUEUES
+8/26/2020 11:11:38 PM :: PNP Device ID: SWD\PRINTENUM\PRINTQUEUES
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: AMD GPIO Controller
+8/26/2020 11:11:38 PM :: Device ID: ACPI\AMDIF030\0
+8/26/2020 11:11:38 PM :: PNP Device ID: ACPI\AMDIF030\0
+8/26/2020 11:11:38 PM :: AMD GPIO Controller Found with device id ACPI\AMDIF030.Hence setting property SETGPIO3
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Мост PCI–PCI
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_15D3&SUBSYS_876B1043&REV_00\3&11583659&0&0A
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_15D3&SUBSYS_876B1043&REV_00\3&11583659&0&0A
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Мост PCI–PCI
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_15D3&SUBSYS_876B1043&REV_00\3&11583659&0&0E
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_15D3&SUBSYS_876B1043&REV_00\3&11583659&0&0E
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Расширяемый хост-контроллер AMD USB 3.10 — 1.10 (Майкрософт)
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_43D5&SUBSYS_11421B21&REV_01\4&2FC0BECC&0&000A
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_43D5&SUBSYS_11421B21&REV_01\4&2FC0BECC&0&000A
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Диспетчер томов
+8/26/2020 11:11:38 PM :: Device ID: ROOT\VOLMGR\0000
+8/26/2020 11:11:38 PM :: PNP Device ID: ROOT\VOLMGR\0000
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Высокоточный таймер событий
+8/26/2020 11:11:38 PM :: Device ID: ACPI\PNP0103\2&DABA3FF&0
+8/26/2020 11:11:38 PM :: PNP Device ID: ACPI\PNP0103\2&DABA3FF&0
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Мост PCI–PCI
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&318E9118&0&28020A
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&318E9118&0&28020A
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Стандартный главный мост PCI — ЦП
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_15EF&SUBSYS_00000000&REV_00\3&11583659&0&C7
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_15EF&SUBSYS_00000000&REV_00\3&11583659&0&C7
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Том
+8/26/2020 11:11:38 PM :: Device ID: STORAGE\VOLUME\{0A90966E-E7C6-11EA-834C-806E6F6E6963}#0000000000100000
+8/26/2020 11:11:38 PM :: PNP Device ID: STORAGE\VOLUME\{0A90966E-E7C6-11EA-834C-806E6F6E6963}#0000000000100000
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Расширяемый хост-контроллер AMD USB 3.10 — 1.10 (Майкрософт)
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_15E1&SUBSYS_876B1043&REV_00\4&28505369&0&0441
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_15E1&SUBSYS_876B1043&REV_00\4&28505369&0&0441
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: WAN Miniport (PPPOE)
+8/26/2020 11:11:38 PM :: Device ID: SWD\MSRRAS\MS_PPPOEMINIPORT
+8/26/2020 11:11:38 PM :: PNP Device ID: SWD\MSRRAS\MS_PPPOEMINIPORT
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Базовый видеодрайвер (Майкрософт)
+8/26/2020 11:11:38 PM :: Device ID: ROOT\BASICDISPLAY\0000
+8/26/2020 11:11:38 PM :: PNP Device ID: ROOT\BASICDISPLAY\0000
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Корневой USB-концентратор (USB 3.0)
+8/26/2020 11:11:38 PM :: Device ID: USB\ROOT_HUB30\5&2EBFCFEC&0&0
+8/26/2020 11:11:38 PM :: PNP Device ID: USB\ROOT_HUB30\5&2EBFCFEC&0&0
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Мост PCI–PCI
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_15DC&SUBSYS_876B1043&REV_00\3&11583659&0&42
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_15DC&SUBSYS_876B1043&REV_00\3&11583659&0&42
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: AMD GPIO Controller
+8/26/2020 11:11:38 PM :: Device ID: ACPI\AMDI0030\0
+8/26/2020 11:11:38 PM :: PNP Device ID: ACPI\AMDI0030\0
+8/26/2020 11:11:38 PM :: AMD GPIO Controller Found with device id ACPI\AMDI00300.Hence setting property SETGPIO2
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Универсальный монитор PnP
+8/26/2020 11:11:38 PM :: Device ID: DISPLAY\BNQ78DB\5&1B268A38&1&UID256
+8/26/2020 11:11:38 PM :: PNP Device ID: DISPLAY\BNQ78DB\5&1B268A38&1&UID256
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Стандартный главный мост PCI — ЦП
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_1452&SUBSYS_00000000&REV_00\3&11583659&0&08
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_1452&SUBSYS_00000000&REV_00\3&11583659&0&08
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Стандартный главный мост PCI — ЦП
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_1452&SUBSYS_00000000&REV_00\3&11583659&0&40
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_1452&SUBSYS_00000000&REV_00\3&11583659&0&40
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Мост PCI–PCI
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&318E9118&0&38020A
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&318E9118&0&38020A
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Составное USB устройство
+8/26/2020 11:11:38 PM :: Device ID: USB\VID_25A7&PID_FA61\6&35CC635F&0&12
+8/26/2020 11:11:38 PM :: PNP Device ID: USB\VID_25A7&PID_FA61\6&35CC635F&0&12
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Стандартный главный мост PCI — ЦП
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_15D0&SUBSYS_876B1043&REV_00\3&11583659&0&00
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_15D0&SUBSYS_876B1043&REV_00\3&11583659&0&00
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Microsoft RRAS Root Enumerator
+8/26/2020 11:11:38 PM :: Device ID: SWD\MSRRAS\{5E259276-BC7E-40E3-B93B-8F89B5F3ABC0}
+8/26/2020 11:11:38 PM :: PNP Device ID: SWD\MSRRAS\{5E259276-BC7E-40E3-B93B-8F89B5F3ABC0}
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Интерфейс управления для ACPI Microsoft Windows
+8/26/2020 11:11:38 PM :: Device ID: ACPI\PNP0C14\ASUSWMI
+8/26/2020 11:11:38 PM :: PNP Device ID: ACPI\PNP0C14\ASUSWMI
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Стандартный главный мост PCI — ЦП
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_15EC&SUBSYS_00000000&REV_00\3&11583659&0&C4
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_15EC&SUBSYS_00000000&REV_00\3&11583659&0&C4
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: HID-совместимое устройство, определенное поставщиком
+8/26/2020 11:11:38 PM :: Device ID: HID\VID_25A7&PID_FA61&MI_01&COL05\8&228EA85F&0&0004
+8/26/2020 11:11:38 PM :: PNP Device ID: HID\VID_25A7&PID_FA61&MI_01&COL05\8&228EA85F&0&0004
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: WAN Miniport (PPTP)
+8/26/2020 11:11:38 PM :: Device ID: SWD\MSRRAS\MS_PPTPMINIPORT
+8/26/2020 11:11:38 PM :: PNP Device ID: SWD\MSRRAS\MS_PPTPMINIPORT
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Встроенный динамик
+8/26/2020 11:11:38 PM :: Device ID: ACPI\PNP0800\4&11D0B147&0
+8/26/2020 11:11:38 PM :: PNP Device ID: ACPI\PNP0800\4&11D0B147&0
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Драйвер инфраструктуры виртуализации Microsoft Hyper-V
+8/26/2020 11:11:38 PM :: Device ID: ROOT\VID\0000
+8/26/2020 11:11:38 PM :: PNP Device ID: ROOT\VID\0000
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: WAN Miniport (IKEv2)
+8/26/2020 11:11:38 PM :: Device ID: SWD\MSRRAS\MS_AGILEVPNMINIPORT
+8/26/2020 11:11:38 PM :: PNP Device ID: SWD\MSRRAS\MS_AGILEVPNMINIPORT
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Перечислитель композитной шины
+8/26/2020 11:11:38 PM :: Device ID: ROOT\COMPOSITEBUS\0000
+8/26/2020 11:11:38 PM :: PNP Device ID: ROOT\COMPOSITEBUS\0000
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Перечислитель виртуальных дисков (Майкрософт)
+8/26/2020 11:11:38 PM :: Device ID: ROOT\VDRVROOT\0000
+8/26/2020 11:11:38 PM :: PNP Device ID: ROOT\VDRVROOT\0000
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Стандартный главный мост PCI — ЦП
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_15E8&SUBSYS_00000000&REV_00\3&11583659&0&C0
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_15E8&SUBSYS_00000000&REV_00\3&11583659&0&C0
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Контроллер дискового пространства (Майкрософт)
+8/26/2020 11:11:38 PM :: Device ID: ROOT\SPACEPORT\0000
+8/26/2020 11:11:38 PM :: PNP Device ID: ROOT\SPACEPORT\0000
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Стандартный контроллер SATA AHCI
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_43C8&SUBSYS_10621B21&REV_01\4&2FC0BECC&0&010A
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_43C8&SUBSYS_10621B21&REV_01\4&2FC0BECC&0&010A
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Последовательный порт (COM1)
+8/26/2020 11:11:38 PM :: Device ID: ACPI\PNP0501\0
+8/26/2020 11:11:38 PM :: PNP Device ID: ACPI\PNP0501\0
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Microsoft Kernel Debug Network Adapter
+8/26/2020 11:11:38 PM :: Device ID: ROOT\KDNIC\0000
+8/26/2020 11:11:38 PM :: PNP Device ID: ROOT\KDNIC\0000
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Microsoft XPS Document Writer
+8/26/2020 11:11:38 PM :: Device ID: SWD\PRINTENUM\{14ED347F-9AB8-42C6-89EA-A3B561BD7EC3}
+8/26/2020 11:11:38 PM :: PNP Device ID: SWD\PRINTENUM\{14ED347F-9AB8-42C6-89EA-A3B561BD7EC3}
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Универсальная теневая копия тома
+8/26/2020 11:11:38 PM :: Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT1
+8/26/2020 11:11:38 PM :: PNP Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT1
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Системный таймер
+8/26/2020 11:11:38 PM :: Device ID: ACPI\PNP0100\4&11D0B147&0
+8/26/2020 11:11:38 PM :: PNP Device ID: ACPI\PNP0100\4&11D0B147&0
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: AMD-UWP Version Control
+8/26/2020 11:11:38 PM :: Device ID: SWD\DRIVERENUM\AMDUWP&5&1B268A38&1
+8/26/2020 11:11:38 PM :: PNP Device ID: SWD\DRIVERENUM\AMDUWP&5&1B268A38&1
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: AMD PSP 10.0 Device
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_15DF&SUBSYS_876B1043&REV_00\4&28505369&0&0241
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_15DF&SUBSYS_876B1043&REV_00\4&28505369&0&0241
+8/26/2020 11:11:38 PM :: AMD PSP 10.0 Device Found with device id PCI\VEN_1022&DEV_15DF.Hence setting property SETPSP
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Name: Расширяемый хост-контроллер AMD USB 3.10 — 1.10 (Майкрософт)
+8/26/2020 11:11:38 PM :: Device ID: PCI\VEN_1022&DEV_15E0&SUBSYS_876B1043&REV_00\4&28505369&0&0341
+8/26/2020 11:11:38 PM :: PNP Device ID: PCI\VEN_1022&DEV_15E0&SUBSYS_876B1043&REV_00\4&28505369&0&0341
+8/26/2020 11:11:38 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:38 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: HID-совместимая мышь
+8/26/2020 11:11:39 PM :: Device ID: HID\VID_25A7&PID_FA61&MI_01&COL01\8&228EA85F&0&0000
+8/26/2020 11:11:39 PM :: PNP Device ID: HID\VID_25A7&PID_FA61&MI_01&COL01\8&228EA85F&0&0000
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: HID-совместимое устройство, определенное поставщиком
+8/26/2020 11:11:39 PM :: Device ID: HID\VID_25A7&PID_FA61&MI_01&COL06\8&228EA85F&0&0005
+8/26/2020 11:11:39 PM :: PNP Device ID: HID\VID_25A7&PID_FA61&MI_01&COL06\8&228EA85F&0&0005
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: AMD Ryzen 3 3200G with Radeon Vega Graphics    
+8/26/2020 11:11:39 PM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200G_WITH_RADEON_VEGA_GRAPHICS____\_0
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200G_WITH_RADEON_VEGA_GRAPHICS____\_0
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: AMD Ryzen 3 3200G with Radeon Vega Graphics    
+8/26/2020 11:11:39 PM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200G_WITH_RADEON_VEGA_GRAPHICS____\_1
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200G_WITH_RADEON_VEGA_GRAPHICS____\_1
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: AMD Ryzen 3 3200G with Radeon Vega Graphics    
+8/26/2020 11:11:39 PM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200G_WITH_RADEON_VEGA_GRAPHICS____\_2
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200G_WITH_RADEON_VEGA_GRAPHICS____\_2
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: AMD Ryzen 3 3200G with Radeon Vega Graphics    
+8/26/2020 11:11:39 PM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200G_WITH_RADEON_VEGA_GRAPHICS____\_3
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_24_-_AMD_RYZEN_3_3200G_WITH_RADEON_VEGA_GRAPHICS____\_3
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: UMBus перечислитель корневой шины
+8/26/2020 11:11:39 PM :: Device ID: ROOT\UMBUS\0000
+8/26/2020 11:11:39 PM :: PNP Device ID: ROOT\UMBUS\0000
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Контроллер High Definition Audio (Microsoft)
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1022&DEV_15E3&SUBSYS_86C71043&REV_00\4&28505369&0&0641
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1022&DEV_15E3&SUBSYS_86C71043&REV_00\4&28505369&0&0641
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Microsoft Radio Device Enumeration Bus
+8/26/2020 11:11:39 PM :: Device ID: SWD\RADIO\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}
+8/26/2020 11:11:39 PM :: PNP Device ID: SWD\RADIO\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Стандартный главный мост PCI — ЦП
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1022&DEV_15EE&SUBSYS_00000000&REV_00\3&11583659&0&C6
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1022&DEV_15EE&SUBSYS_00000000&REV_00\3&11583659&0&C6
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Стандартный мост PCI — ISA
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1022&DEV_790E&SUBSYS_876B1043&REV_51\3&11583659&0&A3
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1022&DEV_790E&SUBSYS_876B1043&REV_51\3&11583659&0&A3
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Системная плата
+8/26/2020 11:11:39 PM :: Device ID: ACPI\PNP0C01\C8
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\PNP0C01\C8
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Компьютер с ACPI на базе x64
+8/26/2020 11:11:39 PM :: Device ID: ROOT\ACPI_HAL\0000
+8/26/2020 11:11:39 PM :: PNP Device ID: ROOT\ACPI_HAL\0000
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: WAN Miniport (Network Monitor)
+8/26/2020 11:11:39 PM :: Device ID: SWD\MSRRAS\MS_NDISWANBH
+8/26/2020 11:11:39 PM :: PNP Device ID: SWD\MSRRAS\MS_NDISWANBH
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: WAN Miniport (IP)
+8/26/2020 11:11:39 PM :: Device ID: SWD\MSRRAS\MS_NDISWANIP
+8/26/2020 11:11:39 PM :: PNP Device ID: SWD\MSRRAS\MS_NDISWANIP
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Клавиатура HID
+8/26/2020 11:11:39 PM :: Device ID: HID\VID_25A7&PID_FA61&MI_00\8&3A5234A4&0&0000
+8/26/2020 11:11:39 PM :: PNP Device ID: HID\VID_25A7&PID_FA61&MI_00\8&3A5234A4&0&0000
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Интерфейс управления для ACPI Microsoft Windows
+8/26/2020 11:11:39 PM :: Device ID: ACPI\PNP0C14\AOD
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\PNP0C14\AOD
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: PCI Express Root Complex
+8/26/2020 11:11:39 PM :: Device ID: ACPI\PNP0A08\0
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\PNP0A08\0
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Мост PCI–PCI
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1022&DEV_15DB&SUBSYS_876B1043&REV_00\3&11583659&0&41
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1022&DEV_15DB&SUBSYS_876B1043&REV_00\3&11583659&0&41
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Microsoft ACPI-совместимая система
+8/26/2020 11:11:39 PM :: Device ID: ACPI_HAL\PNP0C08\0
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI_HAL\PNP0C08\0
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: 
+8/26/2020 11:11:39 PM :: Device ID: HTREE\ROOT\0
+8/26/2020 11:11:39 PM :: PNP Device ID: HTREE\ROOT\0
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Microsoft Print to PDF
+8/26/2020 11:11:39 PM :: Device ID: SWD\PRINTENUM\{B9B08772-E71B-4DCD-A5CB-138CDB6B0DD7}
+8/26/2020 11:11:39 PM :: PNP Device ID: SWD\PRINTENUM\{B9B08772-E71B-4DCD-A5CB-138CDB6B0DD7}
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Базовый драйвер отрисовки (Майкрософт)
+8/26/2020 11:11:39 PM :: Device ID: ROOT\BASICRENDER\0000
+8/26/2020 11:11:39 PM :: PNP Device ID: ROOT\BASICRENDER\0000
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: AMD SMBus
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_876B1043&REV_61\3&11583659&0&A0
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_876B1043&REV_61\3&11583659&0&A0
+8/26/2020 11:11:39 PM :: AMD SMBus Found with device id PCI\VEN_1022&DEV_790B.Hence setting property SETSMBUS_WT since : Майкрософт Windows 10 Pro для рабочих станций
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Стандартный контроллер NVM Express
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1022&DEV_B000&SUBSYS_576210EC&REV_01\4&2074C63F&0&000E
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1022&DEV_B000&SUBSYS_576210EC&REV_01\4&2074C63F&0&000E
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Стандартный главный мост PCI — ЦП
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1022&DEV_15EB&SUBSYS_00000000&REV_00\3&11583659&0&C3
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1022&DEV_15EB&SUBSYS_00000000&REV_00\3&11583659&0&C3
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: WAN Miniport (SSTP)
+8/26/2020 11:11:39 PM :: Device ID: SWD\MSRRAS\MS_SSTPMINIPORT
+8/26/2020 11:11:39 PM :: PNP Device ID: SWD\MSRRAS\MS_SSTPMINIPORT
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: HID-совместимое устройство, определенное поставщиком
+8/26/2020 11:11:39 PM :: Device ID: HID\VID_25A7&PID_FA61&MI_01&COL02\8&228EA85F&0&0001
+8/26/2020 11:11:39 PM :: PNP Device ID: HID\VID_25A7&PID_FA61&MI_01&COL02\8&228EA85F&0&0001
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: ADATA SX8100NP
+8/26/2020 11:11:39 PM :: Device ID: SCSI\DISK&VEN_NVME&PROD_ADATA_SX8100NP\5&3589BB61&0&000000
+8/26/2020 11:11:39 PM :: PNP Device ID: SCSI\DISK&VEN_NVME&PROD_ADATA_SX8100NP\5&3589BB61&0&000000
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: USB-устройство ввода
+8/26/2020 11:11:39 PM :: Device ID: USB\VID_25A7&PID_FA61&MI_00\7&2CB932D4&0&0000
+8/26/2020 11:11:39 PM :: PNP Device ID: USB\VID_25A7&PID_FA61&MI_00\7&2CB932D4&0&0000
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Корневой USB-концентратор (USB 3.0)
+8/26/2020 11:11:39 PM :: Device ID: USB\ROOT_HUB30\5&9D19963&0&0
+8/26/2020 11:11:39 PM :: PNP Device ID: USB\ROOT_HUB30\5&9D19963&0&0
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Realtek PCIe GbE Family Controller
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_10EC&DEV_8168&SUBSYS_86771043&REV_15\6&108BE823&0&0038020A
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_10EC&DEV_8168&SUBSYS_86771043&REV_15\6&108BE823&0&0038020A
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Фиксированная функциональная кнопка ACPI
+8/26/2020 11:11:39 PM :: Device ID: ACPI\FIXEDBUTTON\2&DABA3FF&0
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\FIXEDBUTTON\2&DABA3FF&0
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Realtek High Definition Audio
+8/26/2020 11:11:39 PM :: Device ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0887&SUBSYS_104386C7&REV_1003\5&1C28E26B&0&0001
+8/26/2020 11:11:39 PM :: PNP Device ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0887&SUBSYS_104386C7&REV_1003\5&1C28E26B&0&0001
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Ресурсы системной платы
+8/26/2020 11:11:39 PM :: Device ID: ACPI\PNP0C02\14
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\PNP0C02\14
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Ресурсы системной платы
+8/26/2020 11:11:39 PM :: Device ID: ACPI\PNP0C02\15
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\PNP0C02\15
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Ресурсы системной платы
+8/26/2020 11:11:39 PM :: Device ID: ACPI\PNP0C02\90
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\PNP0C02\90
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Стандартный контроллер SATA AHCI
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_876B1043&REV_61\4&12E10AF6&0&0042
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_876B1043&REV_61\4&12E10AF6&0&0042
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Программный синтезатор звуковой таблицы Microsoft
+8/26/2020 11:11:39 PM :: Device ID: SWD\MMDEVAPI\MICROSOFTGSWAVETABLESYNTH
+8/26/2020 11:11:39 PM :: PNP Device ID: SWD\MMDEVAPI\MICROSOFTGSWAVETABLESYNTH
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Кнопка питания ACPI
+8/26/2020 11:11:39 PM :: Device ID: ACPI\PNP0C0C\AA
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\PNP0C0C\AA
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: CMOS системы и часы реального времени
+8/26/2020 11:11:39 PM :: Device ID: ACPI\PNP0B00\4&11D0B147&0
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\PNP0B00\4&11D0B147&0
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: AMD Radeon(TM) Vega 8 Graphics
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1002&DEV_15D8&SUBSYS_876B1043&REV_C9\4&28505369&0&0041
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1002&DEV_15D8&SUBSYS_876B1043&REV_C9\4&28505369&0&0041
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: AMD LOG
+8/26/2020 11:11:39 PM :: Device ID: ROOT\AMDLOG\0000
+8/26/2020 11:11:39 PM :: PNP Device ID: ROOT\AMDLOG\0000
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Перечислитель виртуальных сетевых адаптеров NDIS
+8/26/2020 11:11:39 PM :: Device ID: ROOT\NDISVIRTUALBUS\0000
+8/26/2020 11:11:39 PM :: PNP Device ID: ROOT\NDISVIRTUALBUS\0000
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Мост PCI–PCI
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&318E9118&0&00020A
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&318E9118&0&00020A
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: HID-совместимое устройство управления
+8/26/2020 11:11:39 PM :: Device ID: HID\VID_25A7&PID_FA61&MI_01&COL03\8&228EA85F&0&0002
+8/26/2020 11:11:39 PM :: PNP Device ID: HID\VID_25A7&PID_FA61&MI_01&COL03\8&228EA85F&0&0002
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Программируемый контроллер прерываний
+8/26/2020 11:11:39 PM :: Device ID: ACPI\PNP0000\4&11D0B147&0
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\PNP0000\4&11D0B147&0
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: USB-устройство ввода
+8/26/2020 11:11:39 PM :: Device ID: USB\VID_25A7&PID_FA61&MI_01\7&2CB932D4&0&0001
+8/26/2020 11:11:39 PM :: PNP Device ID: USB\VID_25A7&PID_FA61&MI_01\7&2CB932D4&0&0001
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Стандартный главный мост PCI — ЦП
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1022&DEV_15ED&SUBSYS_00000000&REV_00\3&11583659&0&C5
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1022&DEV_15ED&SUBSYS_00000000&REV_00\3&11583659&0&C5
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Мост PCI–PCI
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1022&DEV_43C6&SUBSYS_02011B21&REV_01\4&2FC0BECC&0&020A
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1022&DEV_43C6&SUBSYS_02011B21&REV_01\4&2FC0BECC&0&020A
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Ресурсы системной платы
+8/26/2020 11:11:39 PM :: Device ID: ACPI\PNP0C02\700
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\PNP0C02\700
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Ресурсы системной платы
+8/26/2020 11:11:39 PM :: Device ID: ACPI\PNP0C02\4&28505369&0
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\PNP0C02\4&28505369&0
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Драйвер Microsoft System Management BIOS
+8/26/2020 11:11:39 PM :: Device ID: ROOT\MSSMBIOS\0000
+8/26/2020 11:11:39 PM :: PNP Device ID: ROOT\MSSMBIOS\0000
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Стандартный главный мост PCI — ЦП
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1022&DEV_15E9&SUBSYS_00000000&REV_00\3&11583659&0&C1
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1022&DEV_15E9&SUBSYS_00000000&REV_00\3&11583659&0&C1
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Контроллер прямого доступа к памяти
+8/26/2020 11:11:39 PM :: Device ID: ACPI\PNP0200\4&11D0B147&0
+8/26/2020 11:11:39 PM :: PNP Device ID: ACPI\PNP0200\4&11D0B147&0
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Fax
+8/26/2020 11:11:39 PM :: Device ID: SWD\PRINTENUM\{FCABCD0A-C722-482D-9444-2986A73A2572}
+8/26/2020 11:11:39 PM :: PNP Device ID: SWD\PRINTENUM\{FCABCD0A-C722-482D-9444-2986A73A2572}
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Перечислитель программных устройств Plug and Play
+8/26/2020 11:11:39 PM :: Device ID: ROOT\SYSTEM\0000
+8/26/2020 11:11:39 PM :: PNP Device ID: ROOT\SYSTEM\0000
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Стандартный главный мост PCI — ЦП
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1022&DEV_15EA&SUBSYS_00000000&REV_00\3&11583659&0&C2
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1022&DEV_15EA&SUBSYS_00000000&REV_00\3&11583659&0&C2
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Шина перенаправителя устройств удаленных рабочих столов
+8/26/2020 11:11:39 PM :: Device ID: ROOT\RDPBUS\0000
+8/26/2020 11:11:39 PM :: PNP Device ID: ROOT\RDPBUS\0000
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: WAN Miniport (IPv6)
+8/26/2020 11:11:39 PM :: Device ID: SWD\MSRRAS\MS_NDISWANIPV6
+8/26/2020 11:11:39 PM :: PNP Device ID: SWD\MSRRAS\MS_NDISWANIPV6
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Мост PCI–PCI
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&318E9118&0&20020A
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&318E9118&0&20020A
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: Realtek Digital Output (Realtek High Definition Audio)
+8/26/2020 11:11:39 PM :: Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{9FE55ABE-E3EA-4771-B6E6-48CF1AAB2B9E}
+8/26/2020 11:11:39 PM :: PNP Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{9FE55ABE-E3EA-4771-B6E6-48CF1AAB2B9E}
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Name: WAN Miniport (L2TP)
+8/26/2020 11:11:39 PM :: Device ID: SWD\MSRRAS\MS_L2TPMINIPORT
+8/26/2020 11:11:39 PM :: PNP Device ID: SWD\MSRRAS\MS_L2TPMINIPORT
+8/26/2020 11:11:39 PM :: Checking for USB under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+8/26/2020 11:11:39 PM :: Enlisting drivers under 'IDE ATA\ATAPI Controllers' node in Device Manager
+8/26/2020 11:11:39 PM :: **********************************************************************************
+8/26/2020 11:11:39 PM :: Name: Стандартный контроллер SATA AHCI
+8/26/2020 11:11:39 PM :: Device ID: PCI\VEN_1022&DEV_43C8&SUBSYS_10621B21&REV_01\4&2FC0BECC&0&010A
+8/26/2020 11:11:39 PM :: PNP Device ID: PCI\VEN_1022&DEV_43C8&SUBSYS_10621B21&REV_01\4&2FC0BECC&0&010A
+8/26/2020 11:11:39 PM :: Checking for SATA since installer NOT run in maintenance mode
+8/26/2020 11:11:40 PM :: Name: Стандартный контроллер SATA AHCI
+8/26/2020 11:11:40 PM :: Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_876B1043&REV_61\4&12E10AF6&0&0042
+8/26/2020 11:11:40 PM :: PNP Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_876B1043&REV_61\4&12E10AF6&0&0042
+8/26/2020 11:11:40 PM :: Checking for SATA since installer NOT run in maintenance mode
+8/26/2020 11:11:40 PM :: Enlisting drivers under 'Storage Controllers' node in Device Manager
+8/26/2020 11:11:40 PM :: ***************************************************************************
+8/26/2020 11:11:40 PM :: Name: Контроллер дискового пространства (Майкрософт)
+8/26/2020 11:11:40 PM :: Device ID: ROOT\SPACEPORT\0000
+8/26/2020 11:11:40 PM :: PNP Device ID: ROOT\SPACEPORT\0000
+8/26/2020 11:11:40 PM :: Checking for RAID since installer NOT run in uninstall mode
+8/26/2020 11:11:40 PM :: Name: Стандартный контроллер NVM Express
+8/26/2020 11:11:40 PM :: Device ID: PCI\VEN_1022&DEV_B000&SUBSYS_576210EC&REV_01\4&2074C63F&0&000E
+8/26/2020 11:11:40 PM :: PNP Device ID: PCI\VEN_1022&DEV_B000&SUBSYS_576210EC&REV_01\4&2074C63F&0&000E
+8/26/2020 11:11:40 PM :: Checking for RAID since installer NOT run in uninstall mode
+8/26/2020 11:11:40 PM :: Enlisting drivers under 'Processor' node for power plan in control pannel
+8/26/2020 11:11:40 PM :: ********************************************************************************
+8/26/2020 11:11:41 PM :: Name: AMD Ryzen 3 3200G with Radeon Vega Graphics    
+8/26/2020 11:11:41 PM :: Caption: AMD64 Family 23 Model 24 Stepping 1
+8/26/2020 11:11:41 PM :: Description: AMD64 Family 23 Model 24 Stepping 1
+8/26/2020 11:11:41 PM :: Manufacturer: AuthenticAMD
+8/26/2020 11:11:41 PM :: DeviceID: CPU0
+8/26/2020 11:11:41 PM :: PNPDeviceID: 
+8/26/2020 11:11:41 PM :: ProcessorId: 178BFBFF00810F81
+8/26/2020 11:11:41 PM :: Status: OK
+8/26/2020 11:11:41 PM :: SystemName: DESKTOP-PNEENK8
+8/26/2020 11:11:41 PM :: Version: Модель 8, выпуск 1
+8/26/2020 11:11:41 PM :: Checking for RYZEN in Processor Name since the OS is Win 10,RS2.
+8/26/2020 11:11:41 PM :: Processor is : AMD Ryzen 3 3200G with Radeon Vega Graphics    Hence setting property SETRYZENPPKG
+8/26/2020 11:11:41 PM :: Enlisting BIOS information.
+8/26/2020 11:11:41 PM :: ********************************
+8/26/2020 11:11:41 PM :: Name: BIOS Date: 07/14/20 12:29:31 Ver: 05.0000D
+8/26/2020 11:11:41 PM :: Manufacturer: American Megatrends Inc.
+8/26/2020 11:11:41 PM :: Caption: BIOS Date: 07/14/20 12:29:31 Ver: 05.0000D
+8/26/2020 11:11:41 PM :: Description: BIOS Date: 07/14/20 12:29:31 Ver: 05.0000D
+8/26/2020 11:11:41 PM :: BuildNumber: 
+8/26/2020 11:11:41 PM :: SerialNumber: System Serial Number
+8/26/2020 11:11:41 PM :: SMBIOSBIOSVersion: 2202
+8/26/2020 11:11:41 PM :: SMBIOSMajorVersion: 2
+8/26/2020 11:11:41 PM :: SMBIOSMinorVersion: 8
+8/26/2020 11:11:41 PM :: SMBIOSPresent: Истина
+8/26/2020 11:11:41 PM :: Status: OK
+8/26/2020 11:11:41 PM :: Version: ALASKA - 1072009
+8/26/2020 11:11:46 PM :: Source: C:\Users\kazan\Downloads\DRV_RAID_AMD_RaidXpert2_SZ_TSD_W10_64_V93038_20200728R\AMD_Raid_Software.exe
+8/26/2020 11:11:46 PM :: Destination: C:\AMD\
+8/26/2020 11:11:46 PM :: The process ID obtained is  : 9024
+8/26/2020 11:11:46 PM :: The taskkill command is :TASKKILL /F /PID 9024 /T
+29.08.2021 1:38:28 :: REMOVE property value from session is : ALL
+29.08.2021 1:38:28 :: Updating deployed features registry for use in uinstall scenario.Calling MoidifyRemoveValReg  
+29.08.2021 1:38:28 :: REMOVE property value from session for this maintenance mode : ALL
+29.08.2021 1:38:28 :: List of features existing bfr maintenance mode was triggered : Drivers,GPIO2,GPIO3,PSP,RYZENPPKG,SMBUS
+29.08.2021 1:38:29 :: The last line in existing DPINST.LOG file is : INFO:   08/29/2021 01:38:16
+29.08.2021 1:38:29 :: The line count in existing DPINST.LOG file is : 239
+29.08.2021 1:38:29 :: List of features deployed initially : Drivers,GPIO2,GPIO3,PSP,RYZENPPKG,SMBUS
+29.08.2021 1:38:29 :: Not appending since registry already exists and non-uninstallable products are not selected in modify mode.
+29.08.2021 1:38:29 :: Remove value written to registry is: ALL
+29.08.2021 1:38:29 :: REMOVEVALUE property value is : ALL
+29.08.2021 1:38:29 :: DPLINECOUNT property value is : 239
+29.08.2021 1:38:29 :: ADDLOCAL property value is : 
+29.08.2021 1:38:29 :: REMPSHED property value is : 
+29.08.2021 1:38:29 :: Transaction in uninstall mode
+29.08.2021 1:38:29 :: Deleting AMD Chipset Driver registry entry and cpl entry in complete uninstall mode
+29.08.2021 1:38:29 :: Folder C:\AMD\UART Driver not found at location for removal during complete uninstall.
+29.08.2021 1:38:29 :: Folder C:\AMD\I2C Driver not found at location for removal during complete uninstall.
+29.08.2021 1:38:29 :: Deleting C:\AMD\GPIO2 Driver during complete uninstall.
+8/29/2021 1:38:43 AM :: REMOVEVALUE property value is : 
+8/29/2021 1:38:43 AM :: DPLINECOUNT property value is : 
+8/29/2021 1:38:43 AM :: ADDLOCAL property value is : 
+8/29/2021 1:38:43 AM :: REMPSHED property value is : 
+8/29/2021 1:38:43 AM :: Transaction NOT in uninstall mode
+8/29/2021 1:38:43 AM :: No previous line count obtained from dpinst.log
+8/29/2021 1:38:43 AM :: REBOOTSTATUS NOT set from newly created dpinst file.Writing NO to registry.
